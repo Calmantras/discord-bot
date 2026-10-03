@@ -97,6 +97,7 @@ export interface Config {
 		introductions?: string;
 		general: string;
 		leaderboard?: string;
+		levelUp?: string;
 	};
 	starboard: {
 		emojiId: string;

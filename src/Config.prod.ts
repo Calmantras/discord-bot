@@ -13,6 +13,9 @@ export const config: Config = {
 		modLog: "821819464793849876",
 		introductions: "888142541592076347",
 		general: "821743100657270876",
+		// Optional: channel where level-up messages are posted.
+		// If unset, it falls back to `botCommands`.
+		// levelUp: "000000000000000000",
 	},
 	starboard: {
 		emojiId: "⭐",
